@@ -1,0 +1,5 @@
+https://developer.mozilla.org/en-US/docs/Web/HTTP/Status
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...in
+
+Middleware Functions - https://expressjs.com/en/guide/using-middleware.html
